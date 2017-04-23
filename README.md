@@ -1,13 +1,13 @@
-# 愛と社会について
-愛と社会について考えてみるプログラミングアートのようなもの。  
-Processing で動きます。
+# Love and Society
+Programming art to think about love and society. 
+It runs with Processing.
 
-### どんな感じで動くか
-https://www.youtube.com/watch?v=gGtdaR5rDKc
+### How this works
+https://youtu.be/QU86NNXa1F0
 
-### 連絡先
+### Contact
 https://twitter.com/todayske
 
-### 権利など
-ソースは用途問わず、許可なく使っていただいて構いません。  
-何か面白いことにつながったら嬉しいです。
+### Rights
+The source code can be used regardless of purpose, without permission.
+I am glad if it becomes something interesting.
